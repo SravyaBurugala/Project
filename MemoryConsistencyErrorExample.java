@@ -29,6 +29,8 @@ public class MemoryConsistencyErrorExample {
         System.out.println("Say Bye..");
 
         sayHello = false;
-    }
+        
+        
+        }
 
 }
